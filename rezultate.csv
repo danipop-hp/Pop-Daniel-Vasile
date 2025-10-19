@@ -1,0 +1,3375 @@
+C:\Users\dany\PycharmProjects\PythonProject10\.venv\Scripts\python.exe C:\Users\dany\PycharmProjects\PythonProject10\.venv\hangman.py 
+
+Cuvântul 1: ******RA**
+litera ghicită: A
+poziția: 7
+******RA**
+litera ghicită: O
+poziția: 2 4
+**O*O*RA**
+litera ghicită: R
+poziția: 6
+**O*O*RA**
+litera ghicită: C
+poziția: 1
+*CO*O*RA**
+litera ghicită: F
+poziția: 8
+*CO*O*RAF*
+litera ghicită: G
+poziția: 5
+*CO*OGRAF*
+litera ghicită: N
+poziția: 3
+*CONOGRAF*
+litera ghicită: I
+poziția: 0
+ICONOGRAF*
+litera ghicită: Ă
+poziția: 9
+ICONOGRAFĂ
+
+AI-ul a ghicit cuvântul 'ICONOGRAFĂ' în 9 încercări
+
+Cuvântul 2: *A**C****
+litera ghicită: H\npoziția: -1
+*A**C****
+litera ghicită: I
+poziția: 5
+*A**CI***
+litera ghicită: F
+poziția: 0
+FA**CI***
+litera ghicită: A
+poziția: 1
+FA**CI***
+litera ghicită: G
+poziția: 2
+FAG*CI***
+litera ghicită: E\npoziția: -1
+FAG*CI***
+litera ghicită: U
+poziția: 7
+FAG*CI*U*
+litera ghicită: O
+poziția: 3
+FAGOCI*U*
+litera ghicită: L
+poziția: 8
+FAGOCI*UL
+litera ghicită: T
+poziția: 6
+FAGOCITUL
+
+AI-ul a ghicit cuvântul 'FAGOCITUL' în 10 încercări
+
+Cuvântul 3: *P*C******
+litera ghicită: H\npoziția: -1
+*P*C******
+litera ghicită: I
+poziția: 2 6
+*PIC**I***
+litera ghicită: E\npoziția: -1
+*PIC**I***
+litera ghicită: O
+poziția: 4 8
+*PICO*I*O*
+litera ghicită: L
+poziția: 5 7
+*PICOLILO*
+litera ghicită: A
+poziția: 0
+APICOLILO*
+litera ghicită: P
+poziția: 1
+APICOLILO*
+litera ghicită: C
+poziția: 3
+APICOLILO*
+litera ghicită: R
+poziția: 9
+APICOLILOR
+
+AI-ul a ghicit cuvântul 'APICOLILOR' în 9 încercări
+
+Cuvântul 4: H**O******
+litera ghicită: I
+poziția: 1 8 9
+HI*O****II
+litera ghicită: E\npoziția: -1
+HI*O****II
+litera ghicită: P
+poziția: 2 4
+HIPOP***II
+litera ghicită: H
+poziția: 0
+HIPOP***II
+litera ghicită: O
+poziția: 3
+HIPOP***II
+litera ghicită: L
+poziția: 5
+HIPOPL**II
+litera ghicită: A
+poziția: 6
+HIPOPLA*II
+litera ghicită: R\npoziția: -1
+HIPOPLA*II
+litera ghicită: D\npoziția: -1
+HIPOPLA*II
+litera ghicită: F\npoziția: -1
+HIPOPLA*II
+litera ghicită: M\npoziția: -1
+HIPOPLA*II
+litera ghicită: G\npoziția: -1
+HIPOPLA*II
+litera ghicită: N\npoziția: -1
+HIPOPLA*II
+litera ghicită: C\npoziția: -1
+HIPOPLA*II
+litera ghicită: B\npoziția: -1
+HIPOPLA*II
+litera ghicită: S\npoziția: -1
+HIPOPLA*II
+litera ghicită: T\npoziția: -1
+HIPOPLA*II
+litera ghicită: Z
+poziția: 7
+HIPOPLAZII
+
+AI-ul a ghicit cuvântul 'HIPOPLAZII' în 18 încercări
+
+Cuvântul 5: **OHO**
+litera ghicită: O
+poziția: 2 4
+**OHO**
+litera ghicită: P
+poziția: 0
+P*OHO**
+litera ghicită: I
+poziția: 6
+P*OHO*I
+litera ghicită: E\npoziția: -1
+P*OHO*I
+litera ghicită: A\npoziția: -1
+P*OHO*I
+litera ghicită: U\npoziția: -1
+P*OHO*I
+litera ghicită: H
+poziția: 3
+P*OHO*I
+litera ghicită: D
+poziția: 5
+P*OHODI
+litera ghicită: R
+poziția: 1
+PROHODI
+
+AI-ul a ghicit cuvântul 'PROHODI' în 9 încercări
+
+Cuvântul 6: ***PL**
+litera ghicită: E
+poziția: 5
+***PLE*
+litera ghicită: C
+poziția: 0
+C**PLE*
+litera ghicită: H\npoziția: -1
+C**PLE*
+litera ghicită: I
+poziția: 1
+CI*PLE*
+litera ghicită: P
+poziția: 3
+CI*PLE*
+litera ghicită: L
+poziția: 4
+CI*PLE*
+litera ghicită: M\npoziția: -1
+CI*PLE*
+litera ghicită: G\npoziția: -1
+CI*PLE*
+litera ghicită: B\npoziția: -1
+CI*PLE*
+litera ghicită: R\npoziția: -1
+CI*PLE*
+litera ghicită: D\npoziția: -1
+CI*PLE*
+litera ghicită: T\npoziția: -1
+CI*PLE*
+litera ghicită: S\npoziția: -1
+CI*PLE*
+litera ghicită: F\npoziția: -1
+CI*PLE*
+litera ghicită: N\npoziția: -1
+CI*PLE*
+litera ghicită: O
+poziția: 2
+CIOPLE*
+litera ghicită: A
+poziția: 6
+CIOPLEA
+
+AI-ul a ghicit cuvântul 'CIOPLEA' în 17 încercări
+
+Cuvântul 7: **V***I*****
+litera ghicită: O
+poziția: 1 10
+*OV***I***O*
+litera ghicită: R
+poziția: 4 11
+*OV*R*I***OR
+litera ghicită: I
+poziția: 6
+*OV*R*I***OR
+litera ghicită: E
+poziția: 8
+*OV*R*I*E*OR
+litera ghicită: A\npoziția: -1
+*OV*R*I*E*OR
+litera ghicită: U\npoziția: -1
+*OV*R*I*E*OR
+litera ghicită: C
+poziția: 0
+COV*R*I*E*OR
+litera ghicită: T
+poziția: 7
+COV*R*ITE*OR
+litera ghicită: L
+poziția: 9
+COV*R*ITELOR
+litera ghicită: V
+poziția: 2
+COV*R*ITELOR
+litera ghicită: Â
+poziția: 3
+COVÂR*ITELOR
+litera ghicită: Ș
+poziția: 5
+COVÂRȘITELOR
+
+AI-ul a ghicit cuvântul 'COVÂRȘITELOR' în 12 încercări
+
+Cuvântul 8: P***U*****
+litera ghicită: U
+poziția: 4
+P***U*****
+litera ghicită: I
+poziția: 5 7
+P***UI*I**
+litera ghicită: L
+poziția: 8
+P***UI*IL*
+litera ghicită: E
+poziția: 9
+P***UI*ILE
+litera ghicită: A\npoziția: -1
+P***UI*ILE
+litera ghicită: R
+poziția: 2 6
+P*R*UIRILE
+litera ghicită: O\npoziția: -1
+P*R*UIRILE
+litera ghicită: P
+poziția: 0
+P*R*UIRILE
+litera ghicită: Â
+poziția: 1
+PÂR*UIRILE
+litera ghicită: G
+poziția: 3
+PÂRGUIRILE
+
+AI-ul a ghicit cuvântul 'PÂRGUIRILE' în 10 încercări
+
+Cuvântul 9: **R***ER**E
+litera ghicită: A\npoziția: -1
+**R***ER**E
+litera ghicită: R
+poziția: 2 7
+**R***ER**E
+litera ghicită: I
+poziția: 5 8
+**R**IERI*E
+litera ghicită: G
+poziția: 3
+**RG*IERI*E
+litera ghicită: E
+poziția: 6 10
+**RG*IERI*E
+litera ghicită: H
+poziția: 4
+**RGHIERI*E
+litera ghicită: L
+poziția: 9
+**RGHIERILE
+litera ghicită: B
+poziția: 0
+B*RGHIERILE
+litera ghicită: U
+poziția: 1
+BURGHIERILE
+
+AI-ul a ghicit cuvântul 'BURGHIERILE' în 9 încercări
+
+Cuvântul 10: **M*****I*II
+litera ghicită: E\npoziția: -1
+**M*****I*II
+litera ghicită: M
+poziția: 2
+**M*****I*II
+litera ghicită: C
+poziția: 9
+**M*****ICII
+litera ghicită: I
+poziția: 8 10 11
+**M*****ICII
+litera ghicită: A
+poziția: 1 3
+*AMA****ICII
+litera ghicită: S
+poziția: 0
+SAMA****ICII
+litera ghicită: V
+poziția: 4
+SAMAV***ICII
+litera ghicită: O
+poziția: 5
+SAMAVO**ICII
+litera ghicită: L
+poziția: 6
+SAMAVOL*ICII
+litera ghicită: U\npoziția: -1
+SAMAVOL*ICII
+litera ghicită: N
+poziția: 7
+SAMAVOLNICII
+
+AI-ul a ghicit cuvântul 'SAMAVOLNICII' în 11 încercări
+
+Cuvântul 11: *Ă*Ă***T*
+litera ghicită: I
+poziția: 4
+*Ă*ĂI**T*
+litera ghicită: R\npoziția: -1
+*Ă*ĂI**T*
+litera ghicită: E
+poziția: 5 8
+*Ă*ĂIE*TE
+litera ghicită: A\npoziția: -1
+*Ă*ĂIE*TE
+litera ghicită: O\npoziția: -1
+*Ă*ĂIE*TE
+litera ghicită: U\npoziția: -1
+*Ă*ĂIE*TE
+litera ghicită: C
+poziția: 0
+CĂ*ĂIE*TE
+litera ghicită: T
+poziția: 7
+CĂ*ĂIE*TE
+litera ghicită: M\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: D\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: H\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: L\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: P\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: B\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: N\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: F\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: G\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: S\npoziția: -1
+CĂ*ĂIE*TE
+litera ghicită: Ă
+poziția: 1 3
+CĂ*ĂIE*TE
+litera ghicită: Ș
+poziția: 2 6
+CĂȘĂIEȘTE
+
+AI-ul a ghicit cuvântul 'CĂȘĂIEȘTE' în 20 încercări
+
+Cuvântul 12: S*SA***
+litera ghicită: C\npoziția: -1
+S*SA***
+litera ghicită: I
+poziția: 1
+SISA***
+litera ghicită: S
+poziția: 0 2
+SISA***
+litera ghicită: L
+poziția: 4 6
+SISAL*L
+litera ghicită: E\npoziția: -1
+SISAL*L
+litera ghicită: A
+poziția: 3
+SISAL*L
+litera ghicită: U
+poziția: 5
+SISALUL
+
+AI-ul a ghicit cuvântul 'SISALUL' în 7 încercări
+
+Cuvântul 13: ****RAR****
+litera ghicită: I
+poziția: 1 7 8
+*I**RARII**
+litera ghicită: E
+poziția: 3 10
+*I*ERARII*E
+litera ghicită: A
+poziția: 5
+*I*ERARII*E
+litera ghicită: N
+poziția: 2
+*INERARII*E
+litera ghicită: R
+poziția: 4 6
+*INERARII*E
+litera ghicită: L
+poziția: 9
+*INERARIILE
+litera ghicită: C
+poziția: 0
+CINERARIILE
+
+AI-ul a ghicit cuvântul 'CINERARIILE' în 7 încercări
+
+Cuvântul 14: ***A*****R**
+litera ghicită: E
+poziția: 1 8
+*E*A****ER**
+litera ghicită: M
+poziția: 7 11
+*E*A***MER*M
+litera ghicită: L
+poziția: 5
+*E*A*L*MER*M
+litera ghicită: I\npoziția: -1
+*E*A*L*MER*M
+litera ghicită: A
+poziția: 3
+*E*A*L*MER*M
+litera ghicită: R
+poziția: 9
+*E*A*L*MER*M
+litera ghicită: G
+poziția: 4
+*E*AGL*MER*M
+litera ghicită: D
+poziția: 0
+DE*AGL*MER*M
+litera ghicită: B\npoziția: -1
+DE*AGL*MER*M
+litera ghicită: N\npoziția: -1
+DE*AGL*MER*M
+litera ghicită: P\npoziția: -1
+DE*AGL*MER*M
+litera ghicită: C\npoziția: -1
+DE*AGL*MER*M
+litera ghicită: H\npoziția: -1
+DE*AGL*MER*M
+litera ghicită: F\npoziția: -1
+DE*AGL*MER*M
+litera ghicită: T\npoziția: -1
+DE*AGL*MER*M
+litera ghicită: S\npoziția: -1
+DE*AGL*MER*M
+litera ghicită: O
+poziția: 6
+DE*AGLOMER*M
+litera ghicită: U\npoziția: -1
+DE*AGLOMER*M
+litera ghicită: Z
+poziția: 2
+DEZAGLOMER*M
+litera ghicită: Ă
+poziția: 10
+DEZAGLOMERĂM
+
+AI-ul a ghicit cuvântul 'DEZAGLOMERĂM' în 20 încercări
+
+Cuvântul 15: ***R**Ă
+litera ghicită: T
+poziția: 0 2
+T*TR**Ă
+litera ghicită: I\npoziția: -1
+T*TR**Ă
+litera ghicită: R
+poziția: 3
+T*TR**Ă
+litera ghicită: E
+poziția: 1
+TETR**Ă
+litera ghicită: O
+poziția: 4
+TETRO*Ă
+litera ghicită: D
+poziția: 5
+TETRODĂ
+
+AI-ul a ghicit cuvântul 'TETRODĂ' în 6 încercări
+
+Cuvântul 16: ******UR**
+litera ghicită: I
+poziția: 4 8 9
+****I*URII
+litera ghicită: E\npoziția: -1
+****I*URII
+litera ghicită: T
+poziția: 5
+****ITURII
+litera ghicită: M
+poziția: 0
+M***ITURII
+litera ghicită: Â
+poziția: 1
+MÂ**ITURII
+litera ghicită: N
+poziția: 2
+MÂN*ITURII
+litera ghicită: U
+poziția: 6
+MÂN*ITURII
+litera ghicită: O\npoziția: -1
+MÂN*ITURII
+litera ghicită: A\npoziția: -1
+MÂN*ITURII
+litera ghicită: J
+poziția: 3
+MÂNJITURII
+
+AI-ul a ghicit cuvântul 'MÂNJITURII' în 10 încercări
+
+Cuvântul 17: *E**F*********
+litera ghicită: I
+poziția: 5 8 12 13
+*E**FI**I***II
+litera ghicită: E
+poziția: 1
+*E**FI**I***II
+litera ghicită: S
+poziția: 2 6
+*ES*FIS*I***II
+litera ghicită: C
+poziția: 9
+*ES*FIS*IC**II
+litera ghicită: H\npoziția: -1
+*ES*FIS*IC**II
+litera ghicită: O
+poziția: 3
+*ESOFIS*IC**II
+litera ghicită: U\npoziția: -1
+*ESOFIS*IC**II
+litera ghicită: A\npoziția: -1
+*ESOFIS*IC**II
+litera ghicită: D
+poziția: 0
+DESOFIS*IC**II
+litera ghicită: F
+poziția: 4
+DESOFIS*IC**II
+litera ghicită: T
+poziția: 7
+DESOFISTIC**II
+litera ghicită: Ă
+poziția: 10
+DESOFISTICĂ*II
+litera ghicită: R
+poziția: 11
+DESOFISTICĂRII
+
+AI-ul a ghicit cuvântul 'DESOFISTICĂRII' în 13 încercări
+
+Cuvântul 18: T***R*
+litera ghicită: I
+poziția: 2 5
+T*I*RI
+litera ghicită: E
+poziția: 3
+T*IERI
+litera ghicită: R
+poziția: 4
+T*IERI
+litera ghicită: A\npoziția: -1
+T*IERI
+litera ghicită: O\npoziția: -1
+T*IERI
+litera ghicită: U\npoziția: -1
+T*IERI
+litera ghicită: T
+poziția: 0
+T*IERI
+litera ghicită: Ă
+poziția: 1
+TĂIERI
+
+AI-ul a ghicit cuvântul 'TĂIERI' în 8 încercări
+
+Cuvântul 19: ****IL**IL**
+litera ghicită: E
+poziția: 1 6
+*E**ILE*IL**
+litera ghicită: I
+poziția: 4 8
+*E**ILE*IL**
+litera ghicită: A\npoziția: -1
+*E**ILE*IL**
+litera ghicită: R
+poziția: 11
+*E**ILE*IL*R
+litera ghicită: L
+poziția: 5 9
+*E**ILE*IL*R
+litera ghicită: T
+poziția: 3
+*E*TILE*IL*R
+litera ghicită: N
+poziția: 2
+*ENTILE*IL*R
+litera ghicită: G
+poziția: 0
+GENTILE*IL*R
+litera ghicită: B\npoziția: -1
+GENTILE*IL*R
+litera ghicită: F\npoziția: -1
+GENTILE*IL*R
+litera ghicită: S\npoziția: -1
+GENTILE*IL*R
+litera ghicită: M\npoziția: -1
+GENTILE*IL*R
+litera ghicită: H\npoziția: -1
+GENTILE*IL*R
+litera ghicită: C\npoziția: -1
+GENTILE*IL*R
+litera ghicită: D\npoziția: -1
+GENTILE*IL*R
+litera ghicită: P\npoziția: -1
+GENTILE*IL*R
+litera ghicită: O
+poziția: 10
+GENTILE*ILOR
+litera ghicită: Ț
+poziția: 7
+GENTILEȚILOR
+
+AI-ul a ghicit cuvântul 'GENTILEȚILOR' în 18 încercări
+
+Cuvântul 20: ******CI***
+litera ghicită: N
+poziția: 0 2
+N*N***CI***
+litera ghicită: E
+poziția: 1
+NEN***CI***
+litera ghicită: O
+poziția: 3 5
+NENO*OCI***
+litera ghicită: T
+poziția: 8
+NENO*OCIT**
+litera ghicită: I
+poziția: 7
+NENO*OCIT**
+litera ghicită: R
+poziția: 4
+NENOROCIT**
+litera ghicită: C
+poziția: 6
+NENOROCIT**
+litera ghicită: U
+poziția: 9
+NENOROCITU*
+litera ghicită: L
+poziția: 10
+NENOROCITUL
+
+AI-ul a ghicit cuvântul 'NENOROCITUL' în 9 încercări
+
+Cuvântul 21: ***I*T*
+litera ghicită: I
+poziția: 3
+***I*T*
+litera ghicită: R\npoziția: -1
+***I*T*
+litera ghicită: E\npoziția: -1
+***I*T*
+litera ghicită: N
+poziția: 1 4
+*N*INT*
+litera ghicită: A
+poziția: 2
+*NAINT*
+litera ghicită: Î
+poziția: 0
+ÎNAINT*
+litera ghicită: T
+poziția: 5
+ÎNAINT*
+litera ghicită: Ă
+poziția: 6
+ÎNAINTĂ
+
+AI-ul a ghicit cuvântul 'ÎNAINTĂ' în 8 încercări
+
+Cuvântul 22: ******UL
+litera ghicită: E\npoziția: -1
+******UL
+litera ghicită: I
+poziția: 0 4
+I***I*UL
+litera ghicită: L
+poziția: 7
+I***I*UL
+litera ghicită: M
+poziția: 3
+I**MI*UL
+litera ghicită: T
+poziția: 2
+I*TMI*UL
+litera ghicită: C
+poziția: 5
+I*TMICUL
+litera ghicită: S
+poziția: 1
+ISTMICUL
+
+AI-ul a ghicit cuvântul 'ISTMICUL' în 7 încercări
+
+Cuvântul 23: **CU***U****CU*
+litera ghicită: U
+poziția: 3 7 13
+**CU***U****CU*
+litera ghicită: C
+poziția: 2 12
+**CU***U****CU*
+litera ghicită: I
+poziția: 5 11
+**CU*I*U***ICU*
+litera ghicită: H
+poziția: 10
+**CU*I*U**HICU*
+litera ghicită: G
+poziția: 9
+**CU*I*U*GHICU*
+litera ghicită: S
+poziția: 1
+*SCU*I*U*GHICU*
+litera ghicită: L
+poziția: 14
+*SCU*I*U*GHICUL
+litera ghicită: E\npoziția: -1
+*SCU*I*U*GHICUL
+litera ghicită: T
+poziția: 6
+*SCU*ITU*GHICUL
+litera ghicită: N
+poziția: 8
+*SCU*ITUNGHICUL
+litera ghicită: P\npoziția: -1
+*SCU*ITUNGHICUL
+litera ghicită: D\npoziția: -1
+*SCU*ITUNGHICUL
+litera ghicită: B\npoziția: -1
+*SCU*ITUNGHICUL
+litera ghicită: F\npoziția: -1
+*SCU*ITUNGHICUL
+litera ghicită: R\npoziția: -1
+*SCU*ITUNGHICUL
+litera ghicită: M\npoziția: -1
+*SCU*ITUNGHICUL
+litera ghicită: A
+poziția: 0
+ASCU*ITUNGHICUL
+litera ghicită: Ț
+poziția: 4
+ASCUȚITUNGHICUL
+
+AI-ul a ghicit cuvântul 'ASCUȚITUNGHICUL' în 18 încercări
+
+Cuvântul 24: O******Ă***O*
+litera ghicită: O
+poziția: 0 11
+O******Ă***O*
+litera ghicită: B
+poziția: 1 4
+OB**B**Ă***O*
+litera ghicită: I
+poziția: 5 9
+OB**BI*Ă*I*O*
+litera ghicită: L
+poziția: 6 10
+OB**BILĂ*ILO*
+litera ghicită: U
+poziția: 3
+OB*UBILĂ*ILO*
+litera ghicită: E\npoziția: -1
+OB*UBILĂ*ILO*
+litera ghicită: A\npoziția: -1
+OB*UBILĂ*ILO*
+litera ghicită: R
+poziția: 8 12
+OB*UBILĂRILOR
+litera ghicită: N
+poziția: 2
+OBNUBILĂRILOR
+
+AI-ul a ghicit cuvântul 'OBNUBILĂRILOR' în 9 încercări
+
+Cuvântul 25: ****ĂC******
+litera ghicită: H\npoziția: -1
+****ĂC******
+litera ghicită: I
+poziția: 11
+****ĂC*****I
+litera ghicită: E
+poziția: 6
+****ĂCE****I
+litera ghicită: U
+poziția: 1 8 10
+*U**ĂCE*U*UI
+litera ghicită: L
+poziția: 7 9
+*U**ĂCELULUI
+litera ghicită: B
+poziția: 0 3
+BU*BĂCELULUI
+litera ghicită: C
+poziția: 5
+BU*BĂCELULUI
+litera ghicită: M
+poziția: 2
+BUMBĂCELULUI
+
+AI-ul a ghicit cuvântul 'BUMBĂCELULUI' în 8 încercări
+
+Cuvântul 26: ****Ă*ĂR****
+litera ghicită: O
+poziția: 1
+*O**Ă*ĂR****
+litera ghicită: E
+poziția: 11
+*O**Ă*ĂR***E
+litera ghicită: A\npoziția: -1
+*O**Ă*ĂR***E
+litera ghicită: I
+poziția: 8 9
+*O**Ă*ĂRII*E
+litera ghicită: U\npoziția: -1
+*O**Ă*ĂRII*E
+litera ghicită: S
+poziția: 2
+*OS*Ă*ĂRII*E
+litera ghicită: C\npoziția: -1
+*OS*Ă*ĂRII*E
+litera ghicită: R
+poziția: 7
+*OS*Ă*ĂRII*E
+litera ghicită: T
+poziția: 3
+*OSTĂ*ĂRII*E
+litera ghicită: P
+poziția: 0
+POSTĂ*ĂRII*E
+litera ghicită: L
+poziția: 10
+POSTĂ*ĂRIILE
+litera ghicită: Ă
+poziția: 4 6
+POSTĂ*ĂRIILE
+litera ghicită: V
+poziția: 5
+POSTĂVĂRIILE
+
+AI-ul a ghicit cuvântul 'POSTĂVĂRIILE' în 13 încercări
+
+Cuvântul 27: *E********L
+litera ghicită: E
+poziția: 1
+*E********L
+litera ghicită: O
+poziția: 5 7
+*E***O*O**L
+litera ghicită: L
+poziția: 10
+*E***O*O**L
+litera ghicită: C
+poziția: 0
+CE***O*O**L
+litera ghicită: R
+poziția: 4
+CE**RO*O**L
+litera ghicită: M
+poziția: 8
+CE**RO*OM*L
+litera ghicită: N
+poziția: 2
+CEN*RO*OM*L
+litera ghicită: U
+poziția: 9
+CEN*RO*OMUL
+litera ghicită: I\npoziția: -1
+CEN*RO*OMUL
+litera ghicită: A\npoziția: -1
+CEN*RO*OMUL
+litera ghicită: T
+poziția: 3
+CENTRO*OMUL
+litera ghicită: D\npoziția: -1
+CENTRO*OMUL
+litera ghicită: S\npoziția: -1
+CENTRO*OMUL
+litera ghicită: H\npoziția: -1
+CENTRO*OMUL
+litera ghicită: F\npoziția: -1
+CENTRO*OMUL
+litera ghicită: P\npoziția: -1
+CENTRO*OMUL
+litera ghicită: G\npoziția: -1
+CENTRO*OMUL
+litera ghicită: B\npoziția: -1
+CENTRO*OMUL
+litera ghicită: Z
+poziția: 6
+CENTROZOMUL
+
+AI-ul a ghicit cuvântul 'CENTROZOMUL' în 19 încercări
+
+Cuvântul 28: *****U**S*
+litera ghicită: C\npoziția: -1
+*****U**S*
+litera ghicită: I\npoziția: -1
+*****U**S*
+litera ghicită: E
+poziția: 1 9
+*E***U**SE
+litera ghicită: A
+poziția: 3 7
+*E*A*U*ASE
+litera ghicită: R
+poziția: 6
+*E*A*URASE
+litera ghicită: D
+poziția: 0
+DE*A*URASE
+litera ghicită: B
+poziția: 2
+DEBA*URASE
+litera ghicită: S
+poziția: 8
+DEBA*URASE
+litera ghicită: H\npoziția: -1
+DEBA*URASE
+litera ghicită: F\npoziția: -1
+DEBA*URASE
+litera ghicită: M\npoziția: -1
+DEBA*URASE
+litera ghicită: P\npoziția: -1
+DEBA*URASE
+litera ghicită: N\npoziția: -1
+DEBA*URASE
+litera ghicită: L\npoziția: -1
+DEBA*URASE
+litera ghicită: G\npoziția: -1
+DEBA*URASE
+litera ghicită: T\npoziția: -1
+DEBA*URASE
+litera ghicită: V
+poziția: 4
+DEBAVURASE
+
+AI-ul a ghicit cuvântul 'DEBAVURASE' în 17 încercări
+
+Cuvântul 29: V***I**
+litera ghicită: V
+poziția: 0
+V***I**
+litera ghicită: R
+poziția: 1
+VR**I**
+litera ghicită: A
+poziția: 2
+VRA*I**
+litera ghicită: M
+poziția: 3
+VRAMI**
+litera ghicită: I
+poziția: 4
+VRAMI**
+litera ghicită: Ț
+poziția: 5
+VRAMIȚ*
+litera ghicită: E
+poziția: 6
+VRAMIȚE
+
+AI-ul a ghicit cuvântul 'VRAMIȚE' în 7 încercări
+
+Cuvântul 30: **T**I
+litera ghicită: E
+poziția: 1
+*ET**I
+litera ghicită: I
+poziția: 5
+*ET**I
+litera ghicită: R
+poziția: 0 4
+RET*RI
+litera ghicită: O
+poziția: 3
+RETORI
+
+AI-ul a ghicit cuvântul 'RETORI' în 4 încercări
+
+Cuvântul 31: **I***L***L**
+litera ghicită: E
+poziția: 0 9
+E*I***L**EL**
+litera ghicită: I
+poziția: 2
+E*I***L**EL**
+litera ghicită: A
+poziția: 7
+E*I***LA*EL**
+litera ghicită: T
+poziția: 4
+E*I*T*LA*EL**
+litera ghicită: R
+poziția: 8 12
+E*I*T*LAREL*R
+litera ghicită: L
+poziția: 6 10
+E*I*T*LAREL*R
+litera ghicită: S
+poziția: 3
+E*IST*LAREL*R
+litera ghicită: P
+poziția: 1
+EPIST*LAREL*R
+litera ghicită: O
+poziția: 5 11
+EPISTOLARELOR
+
+AI-ul a ghicit cuvântul 'EPISTOLARELOR' în 9 încercări
+
+Cuvântul 32: ***H**B******
+litera ghicită: I
+poziția: 4 12
+***HI*B*****I
+litera ghicită: E
+poziția: 9
+***HI*B**E**I
+litera ghicită: H
+poziția: 3
+***HI*B**E**I
+litera ghicită: N
+poziția: 1
+*N*HI*B**E**I
+litera ghicită: A
+poziția: 5 10
+*N*HIAB**EA*I
+litera ghicită: U
+poziția: 7
+*N*HIABU*EA*I
+litera ghicită: O\npoziția: -1
+*N*HIABU*EA*I
+litera ghicită: C
+poziția: 2
+*NCHIABU*EA*I
+litera ghicită: B
+poziția: 6
+*NCHIABU*EA*I
+litera ghicită: R
+poziția: 8
+*NCHIABUREA*I
+litera ghicită: M\npoziția: -1
+*NCHIABUREA*I
+litera ghicită: G\npoziția: -1
+*NCHIABUREA*I
+litera ghicită: P\npoziția: -1
+*NCHIABUREA*I
+litera ghicită: L\npoziția: -1
+*NCHIABUREA*I
+litera ghicită: S\npoziția: -1
+*NCHIABUREA*I
+litera ghicită: F\npoziția: -1
+*NCHIABUREA*I
+litera ghicită: D\npoziția: -1
+*NCHIABUREA*I
+litera ghicită: T\npoziția: -1
+*NCHIABUREA*I
+litera ghicită: Î
+poziția: 0
+ÎNCHIABUREA*I
+litera ghicită: Ț
+poziția: 11
+ÎNCHIABUREAȚI
+
+AI-ul a ghicit cuvântul 'ÎNCHIABUREAȚI' în 20 încercări
+
+Cuvântul 33: L*********E*
+litera ghicită: E
+poziția: 10
+L*********E*
+litera ghicită: I
+poziția: 3
+L**I******E*
+litera ghicită: A
+poziția: 1 5 8 11
+LA*I*A**A*EA
+litera ghicită: L
+poziția: 0
+LA*I*A**A*EA
+litera ghicită: R
+poziția: 9
+LA*I*A**AREA
+litera ghicită: T
+poziția: 6
+LA*I*AT*AREA
+litera ghicită: M
+poziția: 2
+LAMI*AT*AREA
+litera ghicită: N
+poziția: 4
+LAMINAT*AREA
+litera ghicită: O
+poziția: 7
+LAMINATOAREA
+
+AI-ul a ghicit cuvântul 'LAMINATOAREA' în 9 încercări
+
+Cuvântul 34: ******EZ
+litera ghicită: P
+poziția: 0
+P*****EZ
+litera ghicită: L
+poziția: 1
+PL****EZ
+litera ghicită: E
+poziția: 6
+PL****EZ
+litera ghicită: I
+poziția: 4
+PL**I*EZ
+litera ghicită: A
+poziția: 2
+PLA*I*EZ
+litera ghicită: N
+poziția: 5
+PLA*INEZ
+litera ghicită: T
+poziția: 3
+PLATINEZ
+
+AI-ul a ghicit cuvântul 'PLATINEZ' în 7 încercări
+
+Cuvântul 35: ***D*R****
+litera ghicită: I
+poziția: 9
+***D*R***I
+litera ghicită: E
+poziția: 6 8
+***D*RE*EI
+litera ghicită: U\npoziția: -1
+***D*RE*EI
+litera ghicită: A\npoziția: -1
+***D*RE*EI
+litera ghicită: O\npoziția: -1
+***D*RE*EI
+litera ghicită: L
+poziția: 7
+***D*RELEI
+litera ghicită: Ă
+poziția: 1 4
+*Ă*DĂRELEI
+litera ghicită: Ț
+poziția: 0
+ȚĂ*DĂRELEI
+litera ghicită: N
+poziția: 2
+ȚĂNDĂRELEI
+
+AI-ul a ghicit cuvântul 'ȚĂNDĂRELEI' în 9 încercări
+
+Cuvântul 36: ***A**R*
+litera ghicită: T
+poziția: 0 4
+T**AT*R*
+litera ghicită: I
+poziția: 7
+T**AT*RI
+litera ghicită: E
+poziția: 1
+TE*AT*RI
+litera ghicită: R
+poziția: 6
+TE*AT*RI
+litera ghicită: G\npoziția: -1
+TE*AT*RI
+litera ghicită: B\npoziția: -1
+TE*AT*RI
+litera ghicită: M\npoziția: -1
+TE*AT*RI
+litera ghicită: P\npoziția: -1
+TE*AT*RI
+litera ghicită: H\npoziția: -1
+TE*AT*RI
+litera ghicită: L\npoziția: -1
+TE*AT*RI
+litera ghicită: D\npoziția: -1
+TE*AT*RI
+litera ghicită: N\npoziția: -1
+TE*AT*RI
+litera ghicită: C\npoziția: -1
+TE*AT*RI
+litera ghicită: S\npoziția: -1
+TE*AT*RI
+litera ghicită: F\npoziția: -1
+TE*AT*RI
+litera ghicită: U
+poziția: 5
+TE*ATURI
+litera ghicită: V
+poziția: 2
+TEVATURI
+
+AI-ul a ghicit cuvântul 'TEVATURI' în 17 încercări
+
+Cuvântul 37: F*D******
+litera ghicită: A
+poziția: 3 6 8
+F*DA**A*A
+litera ghicită: I
+poziția: 1
+FIDA**A*A
+litera ghicită: T
+poziția: 7
+FIDA**ATA
+litera ghicită: F
+poziția: 0
+FIDA**ATA
+litera ghicită: D
+poziția: 2
+FIDA**ATA
+litera ghicită: N
+poziția: 4
+FIDAN*ATA
+litera ghicită: U\npoziția: -1
+FIDAN*ATA
+litera ghicită: O\npoziția: -1
+FIDAN*ATA
+litera ghicită: E\npoziția: -1
+FIDAN*ATA
+litera ghicită: Ț
+poziția: 5
+FIDANȚATA
+
+AI-ul a ghicit cuvântul 'FIDANȚATA' în 10 încercări
+
+Cuvântul 38: E*******LE
+litera ghicită: A\npoziția: -1
+E*******LE
+litera ghicită: E
+poziția: 0 9
+E*******LE
+litera ghicită: X
+poziția: 1
+EX******LE
+litera ghicită: O
+poziția: 2
+EXO*****LE
+litera ghicită: N
+poziția: 3
+EXON****LE
+litera ghicită: D
+poziția: 4
+EXOND***LE
+litera ghicită: Ă
+poziția: 5
+EXONDĂ**LE
+litera ghicită: R
+poziția: 6
+EXONDĂR*LE
+litera ghicită: I
+poziția: 7
+EXONDĂRILE
+
+AI-ul a ghicit cuvântul 'EXONDĂRILE' în 9 încercări
+
+Cuvântul 39: ****MA**A**
+litera ghicită: D
+poziția: 0 7
+D***MA*DA**
+litera ghicită: C
+poziția: 2
+D*C*MA*DA**
+litera ghicită: H\npoziția: -1
+D*C*MA*DA**
+litera ghicită: I\npoziția: -1
+D*C*MA*DA**
+litera ghicită: E
+poziția: 1
+DEC*MA*DA**
+litera ghicită: A
+poziția: 5 8
+DEC*MA*DA**
+litera ghicită: O
+poziția: 3
+DECOMA*DA**
+litera ghicită: T
+poziția: 9
+DECOMA*DAT*
+litera ghicită: R\npoziția: -1
+DECOMA*DAT*
+litera ghicită: M
+poziția: 4
+DECOMA*DAT*
+litera ghicită: N
+poziția: 6
+DECOMANDAT*
+litera ghicită: Ă
+poziția: 10
+DECOMANDATĂ
+
+AI-ul a ghicit cuvântul 'DECOMANDATĂ' în 12 încercări
+
+Cuvântul 40: *M****L*
+litera ghicită: E\npoziția: -1
+*M****L*
+litera ghicită: I
+poziția: 4 7
+*M**I*LI
+litera ghicită: M
+poziția: 1
+*M**I*LI
+litera ghicită: G
+poziția: 3
+*M*GI*LI
+litera ghicită: O
+poziția: 0
+OM*GI*LI
+litera ghicită: A
+poziția: 2 5
+OMAGIALI
+
+AI-ul a ghicit cuvântul 'OMAGIALI' în 6 încercări
+
+Cuvântul 41: ****P**E*
+litera ghicită: S
+poziția: 0 6
+S***P*SE*
+litera ghicită: C\npoziția: -1
+S***P*SE*
+litera ghicită: I
+poziția: 5
+S***PISE*
+litera ghicită: E
+poziția: 7
+S***PISE*
+litera ghicită: T
+poziția: 1
+ST**PISE*
+litera ghicită: R\npoziția: -1
+ST**PISE*
+litera ghicită: Â
+poziția: 2
+STÂ*PISE*
+litera ghicită: A\npoziția: -1
+STÂ*PISE*
+litera ghicită: O\npoziția: -1
+STÂ*PISE*
+litera ghicită: U\npoziția: -1
+STÂ*PISE*
+litera ghicită: L
+poziția: 3
+STÂLPISE*
+litera ghicită: P
+poziția: 4
+STÂLPISE*
+litera ghicită: M
+poziția: 8
+STÂLPISEM
+
+AI-ul a ghicit cuvântul 'STÂLPISEM' în 13 încercări
+
+Cuvântul 42: EL**L**
+litera ghicită: E
+poziția: 0
+EL**L**
+litera ghicită: I
+poziția: 3
+EL*IL**
+litera ghicită: A\npoziția: -1
+EL*IL**
+litera ghicită: O
+poziția: 5
+EL*ILO*
+litera ghicită: U\npoziția: -1
+EL*ILO*
+litera ghicită: L
+poziția: 1 4
+EL*ILO*
+litera ghicită: F
+poziția: 2
+ELFILO*
+litera ghicită: R
+poziția: 6
+ELFILOR
+
+AI-ul a ghicit cuvântul 'ELFILOR' în 8 încercări
+
+Cuvântul 43: **C**C***A*****
+litera ghicită: H\npoziția: -1
+**C**C***A*****
+litera ghicită: I\npoziția: -1
+**C**C***A*****
+litera ghicită: E
+poziția: 1 6 12 14
+*EC**CE**A**E*E
+litera ghicită: A
+poziția: 9
+*EC**CE**A**E*E
+litera ghicită: C
+poziția: 2 5
+*EC**CE**A**E*E
+litera ghicită: T
+poziția: 8 11
+*EC**CE*TA*TE*E
+litera ghicită: D
+poziția: 0
+DEC**CE*TA*TE*E
+litera ghicită: N
+poziția: 4 10
+DEC*NCE*TANTE*E
+litera ghicită: O
+poziția: 3
+DECONCE*TANTE*E
+litera ghicită: L
+poziția: 13
+DECONCE*TANTELE
+litera ghicită: R
+poziția: 7
+DECONCERTANTELE
+
+AI-ul a ghicit cuvântul 'DECONCERTANTELE' în 11 încercări
+
+Cuvântul 44: ***I*U*UI
+litera ghicită: E\npoziția: -1
+***I*U*UI
+litera ghicită: L
+poziția: 6
+***I*ULUI
+litera ghicită: G
+poziția: 0 2
+G*GI*ULUI
+litera ghicită: I
+poziția: 3 8
+G*GI*ULUI
+litera ghicită: H\npoziția: -1
+G*GI*ULUI
+litera ghicită: U
+poziția: 5 7
+G*GI*ULUI
+litera ghicită: A
+poziția: 1
+GAGI*ULUI
+litera ghicită: C
+poziția: 4
+GAGICULUI
+
+AI-ul a ghicit cuvântul 'GAGICULUI' în 8 încercări
+
+Cuvântul 45: A**LA***
+litera ghicită: A
+poziția: 0 4
+A**LA***
+litera ghicită: P
+poziția: 1
+AP*LA***
+litera ghicită: E
+poziția: 2
+APELA***
+litera ghicită: L
+poziția: 3
+APELA***
+litera ghicită: R
+poziția: 5
+APELAR**
+litera ghicită: Ă
+poziția: 6
+APELARĂ*
+litera ghicită: M
+poziția: 7
+APELARĂM
+
+AI-ul a ghicit cuvântul 'APELARĂM' în 7 încercări
+
+Cuvântul 46: *******OF****O*
+litera ghicită: E
+poziția: 2 11
+**E****OF**E*O*
+litera ghicită: P
+poziția: 1
+*PE****OF**E*O*
+litera ghicită: T
+poziția: 6 10
+*PE***TOF*TE*O*
+litera ghicită: O
+poziția: 7 13
+*PE***TOF*TE*O*
+litera ghicită: I
+poziția: 9
+*PE***TOFITE*O*
+litera ghicită: R
+poziția: 3 14
+*PER**TOFITE*OR
+litera ghicită: S
+poziția: 0
+SPER**TOFITE*OR
+litera ghicită: F
+poziția: 8
+SPER**TOFITE*OR
+litera ghicită: L
+poziția: 12
+SPER**TOFITELOR
+litera ghicită: M
+poziția: 4
+SPERM*TOFITELOR
+litera ghicită: A
+poziția: 5
+SPERMATOFITELOR
+
+AI-ul a ghicit cuvântul 'SPERMATOFITELOR' în 11 încercări
+
+Cuvântul 47: ***R******O***OR
+litera ghicită: I
+poziția: 6 9 12
+***R**I**IO*I*OR
+litera ghicită: R
+poziția: 3 15
+***R**I**IO*I*OR
+litera ghicită: L
+poziția: 13
+***R**I**IO*ILOR
+litera ghicită: D
+poziția: 5
+***R*DI**IO*ILOR
+litera ghicită: E
+poziția: 1 4
+*E*REDI**IO*ILOR
+litera ghicită: C
+poziția: 2 8
+*ECREDI*CIO*ILOR
+litera ghicită: N
+poziția: 0 7
+NECREDINCIO*ILOR
+litera ghicită: F\npoziția: -1
+NECREDINCIO*ILOR
+litera ghicită: P\npoziția: -1
+NECREDINCIO*ILOR
+litera ghicită: B\npoziția: -1
+NECREDINCIO*ILOR
+litera ghicită: G\npoziția: -1
+NECREDINCIO*ILOR
+litera ghicită: S\npoziția: -1
+NECREDINCIO*ILOR
+litera ghicită: M\npoziția: -1
+NECREDINCIO*ILOR
+litera ghicită: H\npoziția: -1
+NECREDINCIO*ILOR
+litera ghicită: T\npoziția: -1
+NECREDINCIO*ILOR
+litera ghicită: O
+poziția: 10 14
+NECREDINCIO*ILOR
+litera ghicită: Ș
+poziția: 11
+NECREDINCIOȘILOR
+
+AI-ul a ghicit cuvântul 'NECREDINCIOȘILOR' în 17 încercări
+
+Cuvântul 48: ***ST****
+litera ghicită: I
+poziția: 1
+*I*ST****
+litera ghicită: R\npoziția: -1
+*I*ST****
+litera ghicită: E
+poziția: 5
+*I*STE***
+litera ghicită: T
+poziția: 4
+*I*STE***
+litera ghicită: N
+poziția: 2
+*INSTE***
+litera ghicită: C
+poziția: 0
+CINSTE***
+litera ghicită: S
+poziția: 3
+CINSTE***
+litera ghicită: Ț
+poziția: 6
+CINSTEȚ**
+litera ghicită: U
+poziția: 7
+CINSTEȚU*
+litera ghicită: L
+poziția: 8
+CINSTEȚUL
+
+AI-ul a ghicit cuvântul 'CINSTEȚUL' în 10 încercări
+
+Cuvântul 49: **O*OR********
+litera ghicită: F
+poziția: 3
+**OFOR********
+litera ghicită: I
+poziția: 9 12 13
+**OFOR***I**II
+litera ghicită: E
+poziția: 1
+*EOFOR***I**II
+litera ghicită: N
+poziția: 0 11
+NEOFOR***I*NII
+litera ghicită: R
+poziția: 5
+NEOFOR***I*NII
+litera ghicită: M
+poziția: 6
+NEOFORM**I*NII
+litera ghicită: C\npoziția: -1
+NEOFORM**I*NII
+litera ghicită: D\npoziția: -1
+NEOFORM**I*NII
+litera ghicită: S\npoziția: -1
+NEOFORM**I*NII
+litera ghicită: T\npoziția: -1
+NEOFORM**I*NII
+litera ghicită: H\npoziția: -1
+NEOFORM**I*NII
+litera ghicită: G\npoziția: -1
+NEOFORM**I*NII
+litera ghicită: P\npoziția: -1
+NEOFORM**I*NII
+litera ghicită: B\npoziția: -1
+NEOFORM**I*NII
+litera ghicită: L\npoziția: -1
+NEOFORM**I*NII
+litera ghicită: O
+poziția: 2 4
+NEOFORM**I*NII
+litera ghicită: A
+poziția: 7
+NEOFORMA*I*NII
+litera ghicită: Ț
+poziția: 8
+NEOFORMAȚI*NII
+litera ghicită: U
+poziția: 10
+NEOFORMAȚIUNII
+
+AI-ul a ghicit cuvântul 'NEOFORMAȚIUNII' în 19 încercări
+
+Cuvântul 50: P*G*******
+litera ghicită: E
+poziția: 1
+PEG*******
+litera ghicită: I
+poziția: 6
+PEG***I***
+litera ghicită: H\npoziția: -1
+PEG***I***
+litera ghicită: T
+poziția: 5 7
+PEG**TIT**
+litera ghicită: R\npoziția: -1
+PEG**TIT**
+litera ghicită: P
+poziția: 0
+PEG**TIT**
+litera ghicită: G
+poziția: 2
+PEG**TIT**
+litera ghicită: M
+poziția: 3
+PEGM*TIT**
+litera ghicită: A
+poziția: 4
+PEGMATIT**
+litera ghicită: U
+poziția: 8
+PEGMATITU*
+litera ghicită: L
+poziția: 9
+PEGMATITUL
+
+AI-ul a ghicit cuvântul 'PEGMATITUL' în 11 încercări
+
+Cuvântul 51: ***T**E*TE
+litera ghicită: A\npoziția: -1
+***T**E*TE
+litera ghicită: I
+poziția: 5
+***T*IE*TE
+litera ghicită: R\npoziția: -1
+***T*IE*TE
+litera ghicită: E
+poziția: 6 9
+***T*IE*TE
+litera ghicită: U
+poziția: 2 4
+**UTUIE*TE
+litera ghicită: P
+poziția: 0
+P*UTUIE*TE
+litera ghicită: O\npoziția: -1
+P*UTUIE*TE
+litera ghicită: T
+poziția: 3 8
+P*UTUIE*TE
+litera ghicită: L
+poziția: 1
+PLUTUIE*TE
+litera ghicită: M\npoziția: -1
+PLUTUIE*TE
+litera ghicită: C\npoziția: -1
+PLUTUIE*TE
+litera ghicită: N\npoziția: -1
+PLUTUIE*TE
+litera ghicită: H\npoziția: -1
+PLUTUIE*TE
+litera ghicită: B\npoziția: -1
+PLUTUIE*TE
+litera ghicită: S\npoziția: -1
+PLUTUIE*TE
+litera ghicită: G\npoziția: -1
+PLUTUIE*TE
+litera ghicită: D\npoziția: -1
+PLUTUIE*TE
+litera ghicită: F\npoziția: -1
+PLUTUIE*TE
+litera ghicită: Ș
+poziția: 7
+PLUTUIEȘTE
+
+AI-ul a ghicit cuvântul 'PLUTUIEȘTE' în 19 încercări
+
+Cuvântul 52: *I**E*II
+litera ghicită: E
+poziția: 4
+*I**E*II
+litera ghicită: C
+poziția: 0
+CI**E*II
+litera ghicită: N
+poziția: 2
+CIN*E*II
+litera ghicită: I
+poziția: 1 6 7
+CIN*E*II
+litera ghicită: O\npoziția: -1
+CIN*E*II
+litera ghicită: U\npoziția: -1
+CIN*E*II
+litera ghicită: A\npoziția: -1
+CIN*E*II
+litera ghicită: T
+poziția: 3
+CINTE*II
+litera ghicită: R\npoziția: -1
+CINTE*II
+litera ghicită: B\npoziția: -1
+CINTE*II
+litera ghicită: H\npoziția: -1
+CINTE*II
+litera ghicită: P\npoziția: -1
+CINTE*II
+litera ghicită: M\npoziția: -1
+CINTE*II
+litera ghicită: G\npoziția: -1
+CINTE*II
+litera ghicită: D\npoziția: -1
+CINTE*II
+litera ghicită: S\npoziția: -1
+CINTE*II
+litera ghicită: F\npoziția: -1
+CINTE*II
+litera ghicită: L\npoziția: -1
+CINTE*II
+litera ghicită: Z
+poziția: 5
+CINTEZII
+
+AI-ul a ghicit cuvântul 'CINTEZII' în 19 încercări
+
+Cuvântul 53: *O***I***
+litera ghicită: F
+poziția: 0 3
+FO*F*I***
+litera ghicită: L
+poziția: 2
+FOLF*I***
+litera ghicită: E
+poziția: 6
+FOLF*IE**
+litera ghicită: I
+poziția: 5
+FOLF*IE**
+litera ghicită: O
+poziția: 1
+FOLF*IE**
+litera ghicită: U\npoziția: -1
+FOLF*IE**
+litera ghicită: A\npoziția: -1
+FOLF*IE**
+litera ghicită: Ă
+poziția: 4
+FOLFĂIE**
+litera ghicită: S
+poziția: 7
+FOLFĂIES*
+litera ghicită: C
+poziția: 8
+FOLFĂIESC
+
+AI-ul a ghicit cuvântul 'FOLFĂIESC' în 10 încercări
+
+Cuvântul 54: ****I**L**I***L***L**
+litera ghicită: E
+poziția: 17
+****I**L**I***L**EL**
+litera ghicită: I
+poziția: 4 10
+****I**L**I***L**EL**
+litera ghicită: A
+poziția: 8
+****I**LA*I***L**EL**
+litera ghicită: N
+poziția: 5 11
+****IN*LA*IN**L**EL**
+litera ghicită: O
+poziția: 0 2 6 13 15 19
+O*O*INOLA*IN*OLO*ELO*
+litera ghicită: L
+poziția: 7 14 18
+O*O*INOLA*IN*OLO*ELO*
+litera ghicită: G
+poziția: 12 16
+O*O*INOLA*INGOLOGELO*
+litera ghicită: T
+poziția: 1
+OTO*INOLA*INGOLOGELO*
+litera ghicită: R
+poziția: 3 9 20
+OTORINOLARINGOLOGELOR
+
+AI-ul a ghicit cuvântul 'OTORINOLARINGOLOGELOR' în 9 încercări
+
+Cuvântul 55: E**E***A**E*
+litera ghicită: E
+poziția: 0 3 10
+E**E***A**E*
+litera ghicită: T
+poziția: 2 4 9
+E*TET**A*TE*
+litera ghicită: I
+poziția: 5 11
+E*TETI*A*TEI
+litera ghicită: N
+poziția: 8
+E*TETI*ANTEI
+litera ghicită: S
+poziția: 1
+ESTETI*ANTEI
+litera ghicită: C\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: M\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: H\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: L\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: G\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: P\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: B\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: R\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: D\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: F\npoziția: -1
+ESTETI*ANTEI
+litera ghicită: Z
+poziția: 6
+ESTETIZANTEI
+
+AI-ul a ghicit cuvântul 'ESTETIZANTEI' în 16 încercări
+
+Cuvântul 56: B*********Ă
+litera ghicită: A
+poziția: 1 3 5
+BA*A*A****Ă
+litera ghicită: C
+poziția: 6
+BA*A*AC***Ă
+litera ghicită: H
+poziția: 7
+BA*A*ACH**Ă
+litera ghicită: B
+poziția: 0
+BA*A*ACH**Ă
+litera ghicită: L
+poziția: 2
+BALA*ACH**Ă
+litera ghicită: F\npoziția: -1
+BALA*ACH**Ă
+litera ghicită: G\npoziția: -1
+BALA*ACH**Ă
+litera ghicită: M\npoziția: -1
+BALA*ACH**Ă
+litera ghicită: R\npoziția: -1
+BALA*ACH**Ă
+litera ghicită: N\npoziția: -1
+BALA*ACH**Ă
+litera ghicită: P\npoziția: -1
+BALA*ACH**Ă
+litera ghicită: S\npoziția: -1
+BALA*ACH**Ă
+litera ghicită: D\npoziția: -1
+BALA*ACH**Ă
+litera ghicită: T\npoziția: -1
+BALA*ACH**Ă
+litera ghicită: O
+poziția: 4
+BALAOACH**Ă
+litera ghicită: E
+poziția: 8
+BALAOACHE*Ă
+litera ghicită: Ș
+poziția: 9
+BALAOACHEȘĂ
+
+AI-ul a ghicit cuvântul 'BALAOACHEȘĂ' în 17 încercări
+
+Cuvântul 57: *O*Ă***Ă
+litera ghicită: R
+poziția: 4
+*O*ĂR**Ă
+litera ghicită: T
+poziția: 2
+*OTĂR**Ă
+litera ghicită: Ă
+poziția: 3 7
+*OTĂR**Ă
+litera ghicită: N
+poziția: 0
+NOTĂR**Ă
+litera ghicită: O
+poziția: 1
+NOTĂR**Ă
+litera ghicită: I
+poziția: 5
+NOTĂRI*Ă
+litera ghicită: S\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: P\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: L\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: F\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: B\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: C\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: G\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: M\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: H\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: D\npoziția: -1
+NOTĂRI*Ă
+litera ghicită: Ț
+poziția: 6
+NOTĂRIȚĂ
+
+AI-ul a ghicit cuvântul 'NOTĂRIȚĂ' în 17 încercări
+
+Cuvântul 58: D*L***
+litera ghicită: E
+poziția: 3
+D*LE**
+litera ghicită: U
+poziția: 1
+DULE**
+litera ghicită: D
+poziția: 0
+DULE**
+litera ghicită: L
+poziția: 2
+DULE**
+litera ghicită: Ț
+poziția: 4
+DULEȚ*
+litera ghicită: I
+poziția: 5
+DULEȚI
+
+AI-ul a ghicit cuvântul 'DULEȚI' în 6 încercări
+
+Cuvântul 59: ****E**S***E*
+litera ghicită: C
+poziția: 2
+**C*E**S***E*
+litera ghicită: H\npoziția: -1
+**C*E**S***E*
+litera ghicită: I
+poziția: 1 8 12
+*IC*E**SI**EI
+litera ghicită: E
+poziția: 4 11
+*IC*E**SI**EI
+litera ghicită: O
+poziția: 9
+*IC*E**SIO*EI
+litera ghicită: U\npoziția: -1
+*IC*E**SIO*EI
+litera ghicită: A\npoziția: -1
+*IC*E**SIO*EI
+litera ghicită: T
+poziția: 5 6
+*IC*ETTSIO*EI
+litera ghicită: S
+poziția: 7
+*IC*ETTSIO*EI
+litera ghicită: R
+poziția: 0
+RIC*ETTSIO*EI
+litera ghicită: B\npoziția: -1
+RIC*ETTSIO*EI
+litera ghicită: M\npoziția: -1
+RIC*ETTSIO*EI
+litera ghicită: F\npoziția: -1
+RIC*ETTSIO*EI
+litera ghicită: P\npoziția: -1
+RIC*ETTSIO*EI
+litera ghicită: L\npoziția: -1
+RIC*ETTSIO*EI
+litera ghicită: N\npoziția: -1
+RIC*ETTSIO*EI
+litera ghicită: G\npoziția: -1
+RIC*ETTSIO*EI
+litera ghicită: D\npoziția: -1
+RIC*ETTSIO*EI
+litera ghicită: K
+poziția: 3
+RICKETTSIO*EI
+litera ghicită: Z
+poziția: 10
+RICKETTSIOZEI
+
+AI-ul a ghicit cuvântul 'RICKETTSIOZEI' în 20 încercări
+
+Cuvântul 60: C***Ș*
+litera ghicită: H\npoziția: -1
+C***Ș*
+litera ghicită: I
+poziția: 1
+CI**Ș*
+litera ghicită: E
+poziția: 3 5
+CI*EȘE
+litera ghicită: A\npoziția: -1
+CI*EȘE
+litera ghicită: C
+poziția: 0
+CI*EȘE
+litera ghicită: R
+poziția: 2
+CIREȘE
+
+AI-ul a ghicit cuvântul 'CIREȘE' în 6 încercări
+
+Cuvântul 61: **Ă*D**
+litera ghicită: A
+poziția: 5
+**Ă*DA*
+litera ghicită: U\npoziția: -1
+**Ă*DA*
+litera ghicită: E\npoziția: -1
+**Ă*DA*
+litera ghicită: I\npoziția: -1
+**Ă*DA*
+litera ghicită: O\npoziția: -1
+**Ă*DA*
+litera ghicită: Z
+poziția: 0
+Z*Ă*DA*
+litera ghicită: G
+poziția: 1
+ZGĂ*DA*
+litera ghicită: Ă
+poziția: 2
+ZGĂ*DA*
+litera ghicită: R
+poziția: 3
+ZGĂRDA*
+litera ghicită: D
+poziția: 4
+ZGĂRDA*
+litera ghicită: T
+poziția: 6
+ZGĂRDAT
+
+AI-ul a ghicit cuvântul 'ZGĂRDAT' în 11 încercări
+
+Cuvântul 62: *****O***LO*
+litera ghicită: R
+poziția: 1 11
+*R***O***LOR
+litera ghicită: E
+poziția: 2 8
+*RE**O**ELOR
+litera ghicită: O
+poziția: 5 10
+*RE**O**ELOR
+litera ghicită: P
+poziția: 0
+PRE**O**ELOR
+litera ghicită: Ț
+poziția: 3
+PREȚ*O**ELOR
+litera ghicită: I
+poziția: 4
+PREȚIO**ELOR
+litera ghicită: A
+poziția: 6
+PREȚIOA*ELOR
+litera ghicită: S
+poziția: 7
+PREȚIOASELOR
+
+AI-ul a ghicit cuvântul 'PREȚIOASELOR' în 8 încercări
+
+Cuvântul 63: D***R***R
+litera ghicită: R
+poziția: 4 8
+D***R***R
+litera ghicită: D
+poziția: 0
+D***R***R
+litera ghicită: I
+poziția: 1
+DI**R***R
+litera ghicită: M
+poziția: 2
+DIM*R***R
+litera ghicită: U
+poziția: 7
+DIM*R**UR
+litera ghicită: E
+poziția: 5
+DIM*RE*UR
+litera ghicită: O\npoziția: -1
+DIM*RE*UR
+litera ghicită: A\npoziția: -1
+DIM*RE*UR
+litera ghicită: P
+poziția: 3
+DIMPRE*UR
+litera ghicită: L\npoziția: -1
+DIMPRE*UR
+litera ghicită: H\npoziția: -1
+DIMPRE*UR
+litera ghicită: C\npoziția: -1
+DIMPRE*UR
+litera ghicită: F\npoziția: -1
+DIMPRE*UR
+litera ghicită: B\npoziția: -1
+DIMPRE*UR
+litera ghicită: N\npoziția: -1
+DIMPRE*UR
+litera ghicită: T\npoziția: -1
+DIMPRE*UR
+litera ghicită: G\npoziția: -1
+DIMPRE*UR
+litera ghicită: S\npoziția: -1
+DIMPRE*UR
+litera ghicită: J
+poziția: 6
+DIMPREJUR
+
+AI-ul a ghicit cuvântul 'DIMPREJUR' în 19 încercări
+
+Cuvântul 64: **L****T
+litera ghicită: E\npoziția: -1
+**L****T
+litera ghicită: I\npoziția: -1
+**L****T
+litera ghicită: A
+poziția: 6
+**L***AT
+litera ghicită: B
+poziția: 0 3
+B*LB**AT
+litera ghicită: U
+poziția: 1 4
+BULBU*AT
+litera ghicită: C
+poziția: 5
+BULBUCAT
+
+AI-ul a ghicit cuvântul 'BULBUCAT' în 6 încercări
+
+Cuvântul 65: *****D*N*
+litera ghicită: I
+poziția: 2
+**I**D*N*
+litera ghicită: A
+poziția: 0
+A*I**D*N*
+litera ghicită: R
+poziția: 1 4
+ARI*RD*N*
+litera ghicită: D
+poziția: 5
+ARI*RD*N*
+litera ghicită: N
+poziția: 7
+ARI*RD*N*
+litera ghicită: L\npoziția: -1
+ARI*RD*N*
+litera ghicită: F\npoziția: -1
+ARI*RD*N*
+litera ghicită: P\npoziția: -1
+ARI*RD*N*
+litera ghicită: S\npoziția: -1
+ARI*RD*N*
+litera ghicită: C\npoziția: -1
+ARI*RD*N*
+litera ghicită: T\npoziția: -1
+ARI*RD*N*
+litera ghicită: G\npoziția: -1
+ARI*RD*N*
+litera ghicită: B\npoziția: -1
+ARI*RD*N*
+litera ghicită: H\npoziția: -1
+ARI*RD*N*
+litera ghicită: M\npoziția: -1
+ARI*RD*N*
+litera ghicită: U
+poziția: 6
+ARI*RDUN*
+litera ghicită: E
+poziția: 3
+ARIERDUN*
+litera ghicită: Ă
+poziția: 8
+ARIERDUNĂ
+
+AI-ul a ghicit cuvântul 'ARIERDUNĂ' în 18 încercări
+
+Cuvântul 66: ***CI**I
+litera ghicită: E
+poziția: 6
+***CI*EI
+litera ghicită: C
+poziția: 3
+***CI*EI
+litera ghicită: D
+poziția: 5
+***CIDEI
+litera ghicită: I
+poziția: 4 7
+***CIDEI
+litera ghicită: F
+poziția: 0
+F**CIDEI
+litera ghicită: L
+poziția: 1
+FL*CIDEI
+litera ghicită: A
+poziția: 2
+FLACIDEI
+
+AI-ul a ghicit cuvântul 'FLACIDEI' în 7 încercări
+
+Cuvântul 67: ******Ț****L*
+litera ghicită: E
+poziția: 4
+****E*Ț****L*
+litera ghicită: I
+poziția: 7 12
+****E*ȚI***LI
+litera ghicită: N
+poziția: 2 5 9
+**N*ENȚI*N*LI
+litera ghicită: O
+poziția: 1 8
+*ON*ENȚION*LI
+litera ghicită: A
+poziția: 10
+*ON*ENȚIONALI
+litera ghicită: U\npoziția: -1
+*ON*ENȚIONALI
+litera ghicită: C
+poziția: 0
+CON*ENȚIONALI
+litera ghicită: V
+poziția: 3
+CONVENȚIONALI
+
+AI-ul a ghicit cuvântul 'CONVENȚIONALI' în 8 încercări
+
+Cuvântul 68: ******ȚĂ
+litera ghicită: Ă
+poziția: 7
+******ȚĂ
+litera ghicită: N
+poziția: 4
+****N*ȚĂ
+litera ghicită: U
+poziția: 1
+*U**N*ȚĂ
+litera ghicită: I
+poziția: 5
+*U**NIȚĂ
+litera ghicită: C
+poziția: 0 2
+CUC*NIȚĂ
+litera ghicită: H\npoziția: -1
+CUC*NIȚĂ
+litera ghicită: E\npoziția: -1
+CUC*NIȚĂ
+litera ghicită: O
+poziția: 3
+CUCONIȚĂ
+
+AI-ul a ghicit cuvântul 'CUCONIȚĂ' în 8 încercări
+
+Cuvântul 69: N***N*Ș*********
+litera ghicită: O
+poziția: 10
+N***N*Ș***O*****
+litera ghicită: U
+poziția: 12 14
+N***N*Ș***O*U*U*
+litera ghicită: I
+poziția: 3 5 8 15
+N**INIȘ*I*O*U*UI
+litera ghicită: E
+poziția: 1
+NE*INIȘ*I*O*U*UI
+litera ghicită: T
+poziția: 7 9
+NE*INIȘTITO*U*UI
+litera ghicită: N
+poziția: 0 4
+NE*INIȘTITO*U*UI
+litera ghicită: R
+poziția: 11
+NE*INIȘTITORU*UI
+litera ghicită: L
+poziția: 2 13
+NELINIȘTITORULUI
+
+AI-ul a ghicit cuvântul 'NELINIȘTITORULUI' în 8 încercări
+
+Cuvântul 70: B********R***
+litera ghicită: I
+poziția: 1 3 6 8 10
+BI*I**I*IRI**
+litera ghicită: L
+poziția: 11
+BI*I**I*IRIL*
+litera ghicită: E
+poziția: 12
+BI*I**I*IRILE
+litera ghicită: A\npoziția: -1
+BI*I**I*IRILE
+litera ghicită: D
+poziția: 5
+BI*I*DI*IRILE
+litera ghicită: S
+poziția: 7
+BI*I*DISIRILE
+litera ghicită: R
+poziția: 9
+BI*I*DISIRILE
+litera ghicită: N
+poziția: 4
+BI*INDISIRILE
+litera ghicită: H
+poziția: 2
+BIHINDISIRILE
+
+AI-ul a ghicit cuvântul 'BIHINDISIRILE' în 9 încercări
+
+Cuvântul 71: ***L*N****
+litera ghicită: E
+poziția: 8
+***L*N**E*
+litera ghicită: I
+poziția: 4 6
+***LINI*E*
+litera ghicită: P
+poziția: 2
+**PLINI*E*
+litera ghicită: R
+poziția: 7
+**PLINIRE*
+litera ghicită: Î
+poziția: 0
+Î*PLINIRE*
+litera ghicită: A
+poziția: 9
+Î*PLINIREA
+litera ghicită: U\npoziția: -1
+Î*PLINIREA
+litera ghicită: O\npoziția: -1
+Î*PLINIREA
+litera ghicită: M
+poziția: 1
+ÎMPLINIREA
+
+AI-ul a ghicit cuvântul 'ÎMPLINIREA' în 9 încercări
+
+Cuvântul 72: I*S*I****
+litera ghicită: C\npoziția: -1
+I*S*I****
+litera ghicită: I
+poziția: 0 4
+I*S*I****
+litera ghicită: E\npoziția: -1
+I*S*I****
+litera ghicită: T
+poziția: 3
+I*STI****
+litera ghicită: G
+poziția: 5
+I*STIG***
+litera ghicită: H\npoziția: -1
+I*STIG***
+litera ghicită: D
+poziția: 8
+I*STIG**D
+litera ghicită: N
+poziția: 1 7
+INSTIG*ND
+litera ghicită: O\npoziția: -1
+INSTIG*ND
+litera ghicită: U\npoziția: -1
+INSTIG*ND
+litera ghicită: A\npoziția: -1
+INSTIG*ND
+litera ghicită: S
+poziția: 2
+INSTIG*ND
+litera ghicită: Â
+poziția: 6
+INSTIGÂND
+
+AI-ul a ghicit cuvântul 'INSTIGÂND' în 13 încercări
+
+Cuvântul 73: R*C****
+litera ghicită: H\npoziția: -1
+R*C****
+litera ghicită: I\npoziția: -1
+R*C****
+litera ghicită: E
+poziția: 1 3 6
+RECE**E
+litera ghicită: A\npoziția: -1
+RECE**E
+litera ghicită: R
+poziția: 0
+RECE**E
+litera ghicită: C
+poziția: 2
+RECE**E
+litera ghicită: N
+poziția: 4
+RECEN*E
+litera ghicită: O\npoziția: -1
+RECEN*E
+litera ghicită: U\npoziția: -1
+RECEN*E
+litera ghicită: T
+poziția: 5
+RECENTE
+
+AI-ul a ghicit cuvântul 'RECENTE' în 10 încercări
+
+Cuvântul 74: E***E*Ă
+litera ghicită: M
+poziția: 1 5
+EM**EMĂ
+litera ghicită: E
+poziția: 0 4
+EM**EMĂ
+litera ghicită: B
+poziția: 2
+EMB*EMĂ
+litera ghicită: U\npoziția: -1
+EMB*EMĂ
+litera ghicită: A\npoziția: -1
+EMB*EMĂ
+litera ghicită: O\npoziția: -1
+EMB*EMĂ
+litera ghicită: I\npoziția: -1
+EMB*EMĂ
+litera ghicită: L
+poziția: 3
+EMBLEMĂ
+
+AI-ul a ghicit cuvântul 'EMBLEMĂ' în 8 încercări
+
+Cuvântul 75: ***G***Ș**
+litera ghicită: E\npoziția: -1
+***G***Ș**
+litera ghicită: I
+poziția: 1
+*I*G***Ș**
+litera ghicită: H\npoziția: -1
+*I*G***Ș**
+litera ghicită: L
+poziția: 9
+*I*G***Ș*L
+litera ghicită: R
+poziția: 5
+*I*G*R*Ș*L
+litera ghicită: N
+poziția: 2
+*ING*R*Ș*L
+litera ghicită: U
+poziția: 4 8
+*INGUR*ȘUL
+litera ghicită: A
+poziția: 6
+*INGURAȘUL
+litera ghicită: S
+poziția: 0
+SINGURAȘUL
+
+AI-ul a ghicit cuvântul 'SINGURAȘUL' în 9 încercări
+
+Cuvântul 76: ****E**ET******
+litera ghicită: I
+poziția: 14
+****E**ET*****I
+litera ghicită: E
+poziția: 4 7
+****E**ET*****I
+litera ghicită: R
+poziția: 6 10
+****E*RET*R***I
+litera ghicită: S
+poziția: 0 3
+S**SE*RET*R***I
+litera ghicită: C
+poziția: 5
+S**SECRET*R***I
+litera ghicită: U
+poziția: 1 11 13
+SU*SECRET*RU*UI
+litera ghicită: B
+poziția: 2
+SUBSECRET*RU*UI
+litera ghicită: A
+poziția: 9
+SUBSECRETARU*UI
+litera ghicită: T
+poziția: 8
+SUBSECRETARU*UI
+litera ghicită: L
+poziția: 12
+SUBSECRETARULUI
+
+AI-ul a ghicit cuvântul 'SUBSECRETARULUI' în 10 încercări
+
+Cuvântul 77: *E*********E*Ă*
+litera ghicită: M
+poziția: 14
+*E*********E*ĂM
+litera ghicită: S
+poziția: 10
+*E********SE*ĂM
+litera ghicită: R
+poziția: 12
+*E********SERĂM
+litera ghicită: E
+poziția: 1 11
+*E********SERĂM
+litera ghicită: I
+poziția: 3 7
+*E*I***I**SERĂM
+litera ghicită: L
+poziția: 6
+*E*I**LI**SERĂM
+litera ghicită: D
+poziția: 0
+DE*I**LI**SERĂM
+litera ghicită: T
+poziția: 4
+DE*IT*LI**SERĂM
+litera ghicită: G\npoziția: -1
+DE*IT*LI**SERĂM
+litera ghicită: N\npoziția: -1
+DE*IT*LI**SERĂM
+litera ghicită: H\npoziția: -1
+DE*IT*LI**SERĂM
+litera ghicită: C\npoziția: -1
+DE*IT*LI**SERĂM
+litera ghicită: F\npoziția: -1
+DE*IT*LI**SERĂM
+litera ghicită: P\npoziția: -1
+DE*IT*LI**SERĂM
+litera ghicită: B\npoziția: -1
+DE*IT*LI**SERĂM
+litera ghicită: A
+poziția: 5 9
+DE*ITALI*ASERĂM
+litera ghicită: V
+poziția: 2
+DEVITALI*ASERĂM
+litera ghicită: Z
+poziția: 8
+DEVITALIZASERĂM
+
+AI-ul a ghicit cuvântul 'DEVITALIZASERĂM' în 18 încercări
+
+Cuvântul 78: *****R**I**
+litera ghicită: E
+poziția: 6 9
+*****RE*IE*
+litera ghicită: B
+poziția: 2
+**B**RE*IE*
+litera ghicită: P
+poziția: 4
+**B*PRE*IE*
+litera ghicită: A
+poziția: 3
+**BAPRE*IE*
+litera ghicită: R
+poziția: 5
+**BAPRE*IE*
+litera ghicită: S
+poziția: 0
+S*BAPRE*IE*
+litera ghicită: C
+poziția: 7
+S*BAPRECIE*
+litera ghicită: I
+poziția: 8
+S*BAPRECIE*
+litera ghicită: U
+poziția: 1
+SUBAPRECIE*
+litera ghicită: Z
+poziția: 10
+SUBAPRECIEZ
+
+AI-ul a ghicit cuvântul 'SUBAPRECIEZ' în 10 încercări
+
+Cuvântul 79: CL*****L**
+litera ghicită: E\npoziția: -1
+CL*****L**
+litera ghicită: I
+poziția: 9
+CL*****L*I
+litera ghicită: A
+poziția: 2 4
+CLA*A**L*I
+litera ghicită: L
+poziția: 1 7
+CLA*A**L*I
+litera ghicită: T
+poziția: 5
+CLA*AT*L*I
+litera ghicită: R\npoziția: -1
+CLA*AT*L*I
+litera ghicită: S
+poziția: 3
+CLASAT*L*I
+litera ghicită: U
+poziția: 6 8
+CLASATULUI
+
+AI-ul a ghicit cuvântul 'CLASATULUI' în 8 încercări
+
+Cuvântul 80: **R**N****
+litera ghicită: A
+poziția: 1 3
+*ARA*N****
+litera ghicită: N
+poziția: 5
+*ARA*N****
+litera ghicită: R
+poziția: 2
+*ARA*N****
+litera ghicită: F
+poziția: 0
+FARA*N****
+litera ghicită: L
+poziția: 9
+FARA*N***L
+litera ghicită: E\npoziția: -1
+FARA*N***L
+litera ghicită: C
+poziția: 7
+FARA*N*C*L
+litera ghicită: H\npoziția: -1
+FARA*N*C*L
+litera ghicită: I
+poziția: 6
+FARA*NIC*L
+litera ghicită: P\npoziția: -1
+FARA*NIC*L
+litera ghicită: M\npoziția: -1
+FARA*NIC*L
+litera ghicită: G\npoziția: -1
+FARA*NIC*L
+litera ghicită: S\npoziția: -1
+FARA*NIC*L
+litera ghicită: B\npoziția: -1
+FARA*NIC*L
+litera ghicită: D\npoziția: -1
+FARA*NIC*L
+litera ghicită: T\npoziția: -1
+FARA*NIC*L
+litera ghicită: U
+poziția: 8
+FARA*NICUL
+litera ghicită: O
+poziția: 4
+FARAONICUL
+
+AI-ul a ghicit cuvântul 'FARAONICUL' în 18 încercări
+
+Cuvântul 81: **RO**R**OR
+litera ghicită: R
+poziția: 2 6 10
+**RO**R**OR
+litera ghicită: O
+poziția: 3 9
+**RO**R**OR
+litera ghicită: L
+poziția: 4 8
+**ROL*R*LOR
+litera ghicită: E\npoziția: -1
+**ROL*R*LOR
+litera ghicită: I
+poziția: 7
+**ROL*RILOR
+litera ghicită: A\npoziția: -1
+**ROL*RILOR
+litera ghicită: U\npoziția: -1
+**ROL*RILOR
+litera ghicită: Î
+poziția: 0
+Î*ROL*RILOR
+litera ghicită: N
+poziția: 1
+ÎNROL*RILOR
+litera ghicită: Ă
+poziția: 5
+ÎNROLĂRILOR
+
+AI-ul a ghicit cuvântul 'ÎNROLĂRILOR' în 10 încercări
+
+Cuvântul 82: *R*****U
+litera ghicită: L\npoziția: -1
+*R*****U
+litera ghicită: I
+poziția: 2 6
+*RI***IU
+litera ghicită: P
+poziția: 0
+PRI***IU
+litera ghicită: R
+poziția: 1
+PRI***IU
+litera ghicită: M
+poziția: 3
+PRIM**IU
+litera ghicită: E
+poziția: 4
+PRIME*IU
+litera ghicită: B\npoziția: -1
+PRIME*IU
+litera ghicită: N\npoziția: -1
+PRIME*IU
+litera ghicită: D\npoziția: -1
+PRIME*IU
+litera ghicită: G\npoziția: -1
+PRIME*IU
+litera ghicită: C\npoziția: -1
+PRIME*IU
+litera ghicită: H\npoziția: -1
+PRIME*IU
+litera ghicită: T\npoziția: -1
+PRIME*IU
+litera ghicită: S\npoziția: -1
+PRIME*IU
+litera ghicită: F\npoziția: -1
+PRIME*IU
+litera ghicită: Z
+poziția: 5
+PRIMEZIU
+
+AI-ul a ghicit cuvântul 'PRIMEZIU' în 16 încercări
+
+Cuvântul 83: C**C*A*****
+litera ghicită: H\npoziția: -1
+C**C*A*****
+litera ghicită: I
+poziția: 4 10
+C**CIA****I
+litera ghicită: E\npoziția: -1
+C**CIA****I
+litera ghicită: U
+poziția: 2 7 9
+C*UCIA*U*UI
+litera ghicită: A
+poziția: 5
+C*UCIA*U*UI
+litera ghicită: O\npoziția: -1
+C*UCIA*U*UI
+litera ghicită: T
+poziția: 6
+C*UCIATU*UI
+litera ghicită: C
+poziția: 0 3
+C*UCIATU*UI
+litera ghicită: R
+poziția: 1
+CRUCIATU*UI
+litera ghicită: L
+poziția: 8
+CRUCIATULUI
+
+AI-ul a ghicit cuvântul 'CRUCIATULUI' în 10 încercări
+
+Cuvântul 84: P*O********
+litera ghicită: E
+poziția: 8 10
+P*O*****E*E
+litera ghicită: A
+poziția: 6
+P*O***A*E*E
+litera ghicită: I
+poziția: 4
+P*O*I*A*E*E
+litera ghicită: O
+poziția: 2
+P*O*I*A*E*E
+litera ghicită: U\npoziția: -1
+P*O*I*A*E*E
+litera ghicită: R
+poziția: 1
+PRO*I*A*E*E
+litera ghicită: L
+poziția: 9
+PRO*I*A*ELE
+litera ghicită: D
+poziția: 3
+PRODI*A*ELE
+litera ghicită: P
+poziția: 0
+PRODI*A*ELE
+litera ghicită: G
+poziția: 5
+PRODIGA*ELE
+litera ghicită: T
+poziția: 7
+PRODIGATELE
+
+AI-ul a ghicit cuvântul 'PRODIGATELE' în 11 încercări
+
+Cuvântul 85: **NA
+litera ghicită: V
+poziția: 0
+V*NA
+litera ghicită: A
+poziția: 3
+V*NA
+litera ghicită: I
+poziția: 1
+VINA
+
+AI-ul a ghicit cuvântul 'VINA' în 3 încercări
+
+Cuvântul 86: **FR*R**
+litera ghicită: I
+poziția: 1
+*IFR*R**
+litera ghicită: A
+poziția: 4
+*IFRAR**
+litera ghicită: R
+poziția: 3 5
+*IFRAR**
+litera ghicită: C
+poziția: 0
+CIFRAR**
+litera ghicită: F
+poziția: 2
+CIFRAR**
+litera ghicită: Ă
+poziția: 6
+CIFRARĂ*
+litera ghicită: M
+poziția: 7
+CIFRARĂM
+
+AI-ul a ghicit cuvântul 'CIFRARĂM' în 7 încercări
+
+Cuvântul 87: ********S*M
+litera ghicită: C\npoziția: -1
+********S*M
+litera ghicită: I\npoziția: -1
+********S*M
+litera ghicită: E
+poziția: 9
+********SEM
+litera ghicită: N
+poziția: 1 5
+*N***N**SEM
+litera ghicită: Î
+poziția: 0
+ÎN***N**SEM
+litera ghicită: F
+poziția: 2
+ÎNF**N**SEM
+litera ghicită: R
+poziția: 3
+ÎNFR*N**SEM
+litera ghicită: U
+poziția: 4
+ÎNFRUN**SEM
+litera ghicită: T
+poziția: 6
+ÎNFRUNT*SEM
+litera ghicită: A
+poziția: 7
+ÎNFRUNTASEM
+
+AI-ul a ghicit cuvântul 'ÎNFRUNTASEM' în 10 încercări
+
+Cuvântul 88: **OȘ***
+litera ghicită: I
+poziția: 1 6
+*IOȘ**I
+litera ghicită: E
+poziția: 4
+*IOȘE*I
+litera ghicită: L
+poziția: 5
+*IOȘELI
+litera ghicită: V
+poziția: 0
+VIOȘELI
+
+AI-ul a ghicit cuvântul 'VIOȘELI' în 4 încercări
+
+Cuvântul 89: ********ĂȚ*
+litera ghicită: I
+poziția: 4 10
+****I***ĂȚI
+litera ghicită: E
+poziția: 6
+****I*E*ĂȚI
+litera ghicită: S
+poziția: 5
+****ISE*ĂȚI
+litera ghicită: M
+poziția: 1
+*M**ISE*ĂȚI
+litera ghicită: R
+poziția: 7
+*M**ISERĂȚI
+litera ghicită: A
+poziția: 0
+AM**ISERĂȚI
+litera ghicită: U
+poziția: 2
+AMU*ISERĂȚI
+litera ghicită: C\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: G\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: N\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: B\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: T\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: F\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: H\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: L\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: P\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: D\npoziția: -1
+AMU*ISERĂȚI
+litera ghicită: Ș
+poziția: 3
+AMUȘISERĂȚI
+
+AI-ul a ghicit cuvântul 'AMUȘISERĂȚI' în 18 încercări
+
+Cuvântul 90: *E*E*R****R*
+litera ghicită: R
+poziția: 5 10
+*E*E*R****R*
+litera ghicită: G
+poziția: 4
+*E*EGR****R*
+litera ghicită: T
+poziția: 0
+TE*EGR****R*
+litera ghicită: L
+poziția: 2
+TELEGR****R*
+litera ghicită: E
+poziția: 1 3
+TELEGR****R*
+litera ghicită: A
+poziția: 6 9
+TELEGRA**AR*
+litera ghicită: F
+poziția: 7
+TELEGRAF*AR*
+litera ghicită: I
+poziția: 8
+TELEGRAFIAR*
+litera ghicită: Ă
+poziția: 11
+TELEGRAFIARĂ
+
+AI-ul a ghicit cuvântul 'TELEGRAFIARĂ' în 9 încercări
+
+Cuvântul 91: ******AD***
+litera ghicită: E
+poziția: 8 10
+******ADE*E
+litera ghicită: A
+poziția: 6
+******ADE*E
+litera ghicită: N
+poziția: 5
+*****NADE*E
+litera ghicită: D
+poziția: 7
+*****NADE*E
+litera ghicită: L
+poziția: 9
+*****NADELE
+litera ghicită: C
+poziția: 0
+C****NADELE
+litera ghicită: H\npoziția: -1
+C****NADELE
+litera ghicită: I
+poziția: 1
+CI***NADELE
+litera ghicită: T
+poziția: 2
+CIT**NADELE
+litera ghicită: R
+poziția: 3
+CITR*NADELE
+litera ghicită: O
+poziția: 4
+CITRONADELE
+
+AI-ul a ghicit cuvântul 'CITRONADELE' în 11 încercări
+
+Cuvântul 92: **S*************R
+litera ghicită: C
+poziția: 3
+**SC************R
+litera ghicită: H
+poziția: 4
+**SCH***********R
+litera ghicită: B
+poziția: 0 7
+B*SCH**B********R
+litera ghicită: I
+poziția: 10 13
+B*SCH**B**I**I**R
+litera ghicită: A
+poziția: 1 8
+BASCH**BA*I**I**R
+litera ghicită: T
+poziția: 6 12
+BASCH*TBA*I*TI**R
+litera ghicită: O
+poziția: 15
+BASCH*TBA*I*TI*OR
+litera ghicită: E
+poziția: 5
+BASCHETBA*I*TI*OR
+litera ghicită: L
+poziția: 9 14
+BASCHETBALI*TILOR
+litera ghicită: R
+poziția: 16
+BASCHETBALI*TILOR
+litera ghicită: S
+poziția: 2
+BASCHETBALI*TILOR
+litera ghicită: M\npoziția: -1
+BASCHETBALI*TILOR
+litera ghicită: D\npoziția: -1
+BASCHETBALI*TILOR
+litera ghicită: N\npoziția: -1
+BASCHETBALI*TILOR
+litera ghicită: G\npoziția: -1
+BASCHETBALI*TILOR
+litera ghicită: P\npoziția: -1
+BASCHETBALI*TILOR
+litera ghicită: F\npoziția: -1
+BASCHETBALI*TILOR
+litera ghicită: Ș
+poziția: 11
+BASCHETBALIȘTILOR
+
+AI-ul a ghicit cuvântul 'BASCHETBALIȘTILOR' în 18 încercări
+
+Cuvântul 93: **P****L
+litera ghicită: E
+poziția: 1
+*EP****L
+litera ghicită: S
+poziția: 0
+SEP****L
+litera ghicită: P
+poziția: 2
+SEP****L
+litera ghicită: T
+poziția: 3
+SEPT***L
+litera ghicită: I
+poziția: 4
+SEPTI**L
+litera ghicită: C
+poziția: 5
+SEPTIC*L
+litera ghicită: H\npoziția: -1
+SEPTIC*L
+litera ghicită: U
+poziția: 6
+SEPTICUL
+
+AI-ul a ghicit cuvântul 'SEPTICUL' în 8 încercări
+
+Cuvântul 94: **N*NO
+litera ghicită: E
+poziția: 1 3
+*ENENO
+litera ghicită: N
+poziția: 2 4
+*ENENO
+litera ghicită: V
+poziția: 0
+VENENO
+
+AI-ul a ghicit cuvântul 'VENENO' în 3 încercări
+
+Cuvântul 95: ****O*Ă*
+litera ghicită: R
+poziția: 3
+***RO*Ă*
+litera ghicită: M
+poziția: 7
+***RO*ĂM
+litera ghicită: N
+poziția: 5
+***RONĂM
+litera ghicită: G
+poziția: 0
+G**RONĂM
+litera ghicită: E\npoziția: -1
+G**RONĂM
+litera ghicită: I\npoziția: -1
+G**RONĂM
+litera ghicită: H\npoziția: -1
+G**RONĂM
+litera ghicită: U
+poziția: 1
+GU*RONĂM
+litera ghicită: D
+poziția: 2
+GUDRONĂM
+
+AI-ul a ghicit cuvântul 'GUDRONĂM' în 9 încercări
+
+Cuvântul 96: C*R***C*****
+litera ghicită: H\npoziția: -1
+C*R***C*****
+litera ghicită: I
+poziția: 7 11
+C*R***CI***I
+litera ghicită: E
+poziția: 4
+C*R*E*CI***I
+litera ghicită: U
+poziția: 8 10
+C*R*E*CIU*UI
+litera ghicită: O
+poziția: 1
+COR*E*CIU*UI
+litera ghicită: A\npoziția: -1
+COR*E*CIU*UI
+litera ghicită: D
+poziția: 3
+CORDE*CIU*UI
+litera ghicită: R
+poziția: 2
+CORDE*CIU*UI
+litera ghicită: L
+poziția: 9
+CORDE*CIULUI
+litera ghicită: C
+poziția: 0 6
+CORDE*CIULUI
+litera ghicită: N
+poziția: 5
+CORDENCIULUI
+
+AI-ul a ghicit cuvântul 'CORDENCIULUI' în 11 încercări
+
+Cuvântul 97: ST*******
+litera ghicită: I
+poziția: 6
+ST****I**
+litera ghicită: R
+poziția: 2 7
+STR***IR*
+litera ghicită: S
+poziția: 0
+STR***IR*
+litera ghicită: T
+poziția: 1
+STR***IR*
+litera ghicită: O
+poziția: 3
+STRO**IR*
+litera ghicită: P
+poziția: 4
+STROP*IR*
+litera ghicită: E
+poziția: 8
+STROP*IRE
+litera ghicită: A\npoziția: -1
+STROP*IRE
+litera ghicită: U\npoziția: -1
+STROP*IRE
+litera ghicită: Ș
+poziția: 5
+STROPȘIRE
+
+AI-ul a ghicit cuvântul 'STROPȘIRE' în 10 încercări
+
+Cuvântul 98: F*I*****I**
+litera ghicită: I
+poziția: 2 8
+F*I*****I**
+litera ghicită: O
+poziția: 1 6
+FOI***O*I**
+litera ghicită: S
+poziția: 9
+FOI***O*IS*
+litera ghicită: C\npoziția: -1
+FOI***O*IS*
+litera ghicită: E
+poziția: 4
+FOI*E*O*IS*
+litera ghicită: T
+poziția: 5 10
+FOI*ETO*IST
+litera ghicită: L
+poziția: 3
+FOILETO*IST
+litera ghicită: F
+poziția: 0
+FOILETO*IST
+litera ghicită: N
+poziția: 7
+FOILETONIST
+
+AI-ul a ghicit cuvântul 'FOILETONIST' în 9 încercări
+
+Cuvântul 99: *****S**Ă
+litera ghicită: C
+poziția: 3
+***C*S**Ă
+litera ghicită: H\npoziția: -1
+***C*S**Ă
+litera ghicită: I
+poziția: 2 4
+**ICIS**Ă
+litera ghicită: E
+poziția: 6
+**ICISE*Ă
+litera ghicită: R
+poziția: 7
+**ICISERĂ
+litera ghicită: P
+poziția: 0
+P*ICISERĂ
+litera ghicită: O\npoziția: -1
+P*ICISERĂ
+litera ghicită: A\npoziția: -1
+P*ICISERĂ
+litera ghicită: U\npoziția: -1
+P*ICISERĂ
+litera ghicită: L
+poziția: 1
+PLICISERĂ
+
+AI-ul a ghicit cuvântul 'PLICISERĂ' în 10 încercări
+
+Cuvântul 100: A***TAT
+litera ghicită: A
+poziția: 0 5
+A***TAT
+litera ghicită: T
+poziția: 4 6
+A***TAT
+litera ghicită: C
+poziția: 1
+AC**TAT
+litera ghicită: H
+poziția: 2
+ACH*TAT
+litera ghicită: I
+poziția: 3
+ACHITAT
+
+AI-ul a ghicit cuvântul 'ACHITAT' în 5 încercări
+Totalul încercărilor: 1111
+Succes: totalul încercărilor este sub 1200!
+
+Process finished with exit code 0
