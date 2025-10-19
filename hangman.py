@@ -147,39 +147,57 @@ def incarca_cuvinte_din_csv(nume_fisier):
 # Simularea jocului AI pe toate cuvintele
 # Combină toate strategiile AI-ului și calculează totalul încercărilor
 def joc_AI_toti_cuvintele(cuvinte):
+    # totalul încercărilor pentru toate cuvintele
     total_incercari = 0
+    # lista cu toate cuvintele reale pentru filtrare
     cuvinte_romana = [c[1] for c in cuvinte]
 
     for index, (cuvant_mascat, cuvant_real) in enumerate(cuvinte):
+        # transformăm cuvântul mascat într-o listă pentru a putea modifica caractere
         afisare = list(cuvant_mascat)
         litere_folosite = []
         incercari = 0
 
+        # afișăm cuvântul curent mascat
         print(f"\nCuvântul {index + 1}: {''.join(afisare)}")
 
+        # verificăm dacă lungimile sunt egale pentru siguranță
+        if len(afisare) != len(cuvant_real):
+            print(f"Warning: lungimi diferite între cuvântul mascat și cel real, sărim cuvântul {index+1}")
+            continue
+
+        # buclă principală: ghicim litere până când nu mai sunt '*' în afișare
         while "*" in afisare:
+            # obținem litera ghicită de AI
             ghicire = ghiceste_litera_AI(litere_folosite, afisare, cuvinte_romana)
             if ghicire == -1:
                 print("AI-ul nu mai are litere disponibile.")
                 break
 
             incercari += 1
-            pozitii = [str(j) for j, lit in enumerate(cuvant_real) if lit == ghicire]
+            # găsim toate pozițiile unde litera ghicită apare în cuvântul real
+            pozitii = [j for j, lit in enumerate(cuvant_real) if lit == ghicire]
 
             if pozitii:
-                for j in map(int, pozitii):
-                    afisare[j] = cuvant_real[j]
-                print(f"litera ghicită: {ghicire}\npoziția: {' '.join(pozitii)}")
+                # completăm literele ghicite în afișare
+                for j in pozitii:
+                    if j < len(afisare):  # verificare de siguranță
+                        afisare[j] = cuvant_real[j]
+                print(f"litera ghicită: {ghicire}\npoziția: {' '.join(map(str, pozitii))}")
             else:
-                print(f"litera ghicită: {ghicire}\\npoziția: -1")
+                # dacă litera ghicită nu există în cuvânt, afișăm -1
+                print(f"litera ghicită: {ghicire}\npoziția: -1")
 
-            print(''.join(afisare))  # afișăm progresul curent al cuvântului
+            # afișăm progresul curent al cuvântului
+            print(''.join(afisare))
 
-        # La final, afișăm câte încercări a folosit AI-ul pentru cuvântul curent
+        # afișăm numărul total de încercări pentru cuvântul curent
         print(f"\nAI-ul a ghicit cuvântul '{cuvant_real}' în {incercari} încercări")
-        total_incercari += incercari  # adăugăm la totalul general
+        total_incercari += incercari
 
-    return total_incercari  # returnăm totalul încercărilor pentru toate cuvintele
+    # returnăm totalul încercărilor pentru toate cuvintele
+    return total_incercari
+
 
 # --- Main ---
 if __name__ == "__main__":
@@ -195,4 +213,3 @@ if __name__ == "__main__":
         print("Încă acceptabil: sub 1500.")  # performanță medie
     else:
         print("Prea mare: peste 1500.")  # performanță slabă, AI-ul a folosit prea multe încercări
-
